@@ -1,0 +1,4323 @@
+{
+  "expand": "names,schema",
+  "startAt": 0,
+  "maxResults": 124,
+  "total": 124,
+  "issues": [
+    {
+      "id": "10017",
+      "key": "DATA-17",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-02-22T17:00:00.000+0530",
+        "updated": "2026-02-27T17:00:00.000+0530",
+        "duedate": "2026-03-12",
+        "resolutiondate": null,
+        "labels": [
+          "etl",
+          "urgent"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10034",
+      "key": "WEB-34",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-04-28T12:00:00.000+0530",
+        "updated": "2026-05-03T12:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10075",
+      "key": "WEB-75",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-04-03T13:00:00.000+0530",
+        "updated": "2026-04-20T16:00:00.000+0530",
+        "duedate": "2026-04-21",
+        "resolutiondate": "2026-04-20T16:00:00.000+0530",
+        "labels": [
+          "report",
+          "sql"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10030",
+      "key": "WEB-30",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": null,
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-06-27T17:00:00.000+0530",
+        "updated": "2026-06-30T17:00:00.000+0530",
+        "duedate": "2026-07-02",
+        "resolutiondate": null,
+        "labels": [
+          "urgent"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10074",
+      "key": "WEB-74",
+      "fields": {
+        "summary": "Create data dictionary",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-08-26T11:00:00.000+0530",
+        "updated": "2026-09-03T11:00:00.000+0530",
+        "duedate": "2026-09-20",
+        "resolutiondate": null,
+        "labels": [
+          "sql",
+          "bug"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10117",
+      "key": "DATA-117",
+      "fields": {
+        "summary": "Improve API error handling",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-03-11T12:00:00.000+0530",
+        "updated": "2026-04-14T15:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": "2026-04-14T15:00:00.000+0530",
+        "labels": [
+          "urgent"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10001",
+      "key": "OPS-1",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-02-02T09:00:00.000+0530",
+        "updated": "2026-02-17T10:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": "2026-02-17T10:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10065",
+      "key": "OPS-65",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-06-09T12:00:00.000+0530",
+        "updated": "2026-06-10T16:00:00.000+0530",
+        "duedate": "2026-06-23",
+        "resolutiondate": "2026-06-10T16:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10053",
+      "key": "OPS-53",
+      "fields": {
+        "summary": "Migrate reports",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Blocked"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-06-06T13:00:00.000+0530",
+        "updated": "2026-06-15T13:00:00.000+0530",
+        "duedate": "2026-06-17",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10078",
+      "key": "DATA-78",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-25T13:00:00.000+0530",
+        "updated": "2026-08-30T13:00:00.000+0530",
+        "duedate": "2026-09-12",
+        "resolutiondate": null,
+        "labels": [
+          "api"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10119",
+      "key": "WEB-119",
+      "fields": {
+        "summary": "Refactor ETL script",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-02-21T10:00:00.000+0530",
+        "updated": "2026-02-23T10:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10063",
+      "key": "OPS-63",
+      "fields": {
+        "summary": "Improve API error handling",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-01-14T16:00:00.000+0530",
+        "updated": "2026-01-24T16:00:00.000+0530",
+        "duedate": "2026-01-27",
+        "resolutiondate": null,
+        "labels": [
+          "api",
+          "urgent"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10032",
+      "key": "WEB-32",
+      "fields": {
+        "summary": "Refactor ETL script",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-01-22T14:00:00.000+0530",
+        "updated": "2026-01-30T19:00:00.000+0530",
+        "duedate": "2026-02-17",
+        "resolutiondate": "2026-01-30T19:00:00.000+0530",
+        "labels": [
+          "sql"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10087",
+      "key": "OPS-87",
+      "fields": {
+        "summary": "Improve API error handling",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-04-22T17:00:00.000+0530",
+        "updated": "2026-05-07T17:00:00.000+0530",
+        "duedate": "2026-04-29",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10072",
+      "key": "DATA-72",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-07-15T10:00:00.000+0530",
+        "updated": "2026-08-04T10:00:00.000+0530",
+        "duedate": "2026-07-23",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10031",
+      "key": "WEB-31",
+      "fields": {
+        "summary": "Fix login timeout",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": null,
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-06-09T17:00:00.000+0530",
+        "updated": "2026-06-15T17:00:00.000+0530",
+        "duedate": "2026-07-02",
+        "resolutiondate": null,
+        "labels": [
+          "urgent",
+          "bug"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10022",
+      "key": "WEB-22",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-02-07T13:00:00.000+0530",
+        "updated": "2026-02-09T13:00:00.000+0530",
+        "duedate": "2026-03-08",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10080",
+      "key": "OPS-80",
+      "fields": {
+        "summary": "Fix duplicate records",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-02-05T16:00:00.000+0530",
+        "updated": "2026-02-13T16:00:00.000+0530",
+        "duedate": "2026-03-05",
+        "resolutiondate": null,
+        "labels": [
+          "sql",
+          "report"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10068",
+      "key": "WEB-68",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-05-22T16:00:00.000+0530",
+        "updated": "2026-06-08T16:00:00.000+0530",
+        "duedate": "2026-06-13",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10015",
+      "key": "DATA-15",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-05-16T12:00:00.000+0530",
+        "updated": "2026-05-22T12:00:00.000+0530",
+        "duedate": "2026-06-05",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10095",
+      "key": "DATA-95",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-05-29T15:00:00.000+0530",
+        "updated": "2026-06-18T15:00:00.000+0530",
+        "duedate": "2026-06-26",
+        "resolutiondate": null,
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10108",
+      "key": "OPS-108",
+      "fields": {
+        "summary": "Migrate reports",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-04-13T13:00:00.000+0530",
+        "updated": "2026-05-02T13:00:00.000+0530",
+        "duedate": "2026-05-09",
+        "resolutiondate": null,
+        "labels": [
+          "urgent"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10036",
+      "key": "DATA-36",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-02-11T09:00:00.000+0530",
+        "updated": "2026-02-18T15:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": "2026-02-18T15:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10118",
+      "key": "WEB-118",
+      "fields": {
+        "summary": "Refactor ETL script",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-01-21T10:00:00.000+0530",
+        "updated": "2026-02-25T10:00:00.000+0530",
+        "duedate": "2026-02-10",
+        "resolutiondate": "2026-02-25T10:00:00.000+0530",
+        "labels": [
+          "report",
+          "bug"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10013",
+      "key": "OPS-13",
+      "fields": {
+        "summary": "Create data dictionary",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Blocked"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-08-16T15:00:00.000+0530",
+        "updated": "2026-08-22T15:00:00.000+0530",
+        "duedate": "2026-09-07",
+        "resolutiondate": null,
+        "labels": [
+          "api",
+          "etl"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10027",
+      "key": "DATA-27",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-06-28T12:00:00.000+0530",
+        "updated": "2026-07-25T16:00:00.000+0530",
+        "duedate": "2026-07-14",
+        "resolutiondate": "2026-07-25T16:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10012",
+      "key": "DATA-12",
+      "fields": {
+        "summary": "Improve API error handling",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-03-07T10:00:00.000+0530",
+        "updated": "2026-03-09T10:00:00.000+0530",
+        "duedate": "2026-03-27",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10116",
+      "key": "DATA-116",
+      "fields": {
+        "summary": "Clean customer table",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-07T14:00:00.000+0530",
+        "updated": "2026-08-10T16:00:00.000+0530",
+        "duedate": "2026-08-16",
+        "resolutiondate": "2026-08-10T16:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10091",
+      "key": "WEB-91",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-03-26T13:00:00.000+0530",
+        "updated": "2026-04-10T13:00:00.000+0530",
+        "duedate": "2026-04-04",
+        "resolutiondate": null,
+        "labels": [
+          "bug"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10008",
+      "key": "DATA-8",
+      "fields": {
+        "summary": "Set up alerts",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-03-09T17:00:00.000+0530",
+        "updated": "2026-03-27T17:00:00.000+0530",
+        "duedate": "2026-04-06",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10098",
+      "key": "DATA-98",
+      "fields": {
+        "summary": "Create data dictionary",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-02-26T13:00:00.000+0530",
+        "updated": "2026-03-07T19:00:00.000+0530",
+        "duedate": "2026-03-27",
+        "resolutiondate": "2026-03-07T19:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10111",
+      "key": "OPS-111",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-08-06T17:00:00.000+0530",
+        "updated": "2026-08-25T17:00:00.000+0530",
+        "duedate": "2026-08-21",
+        "resolutiondate": null,
+        "labels": [
+          "bug",
+          "api"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10049",
+      "key": "WEB-49",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-03-08T16:00:00.000+0530",
+        "updated": "2026-04-02T18:00:00.000+0530",
+        "duedate": "2026-04-03",
+        "resolutiondate": "2026-04-02T18:00:00.000+0530",
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10079",
+      "key": "OPS-79",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-08-15T14:00:00.000+0530",
+        "updated": "2026-08-20T15:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": "2026-08-20T15:00:00.000+0530",
+        "labels": [
+          "etl"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10010",
+      "key": "WEB-10",
+      "fields": {
+        "summary": "Fix login timeout",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-07-20T14:00:00.000+0530",
+        "updated": "2026-07-25T14:00:00.000+0530",
+        "duedate": "2026-08-07",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10002",
+      "key": "OPS-2",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-06-08T09:00:00.000+0530",
+        "updated": "2026-07-13T12:00:00.000+0530",
+        "duedate": "2026-07-05",
+        "resolutiondate": "2026-07-13T12:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10054",
+      "key": "WEB-54",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-07-02T11:00:00.000+0530",
+        "updated": "2026-08-03T11:00:00.000+0530",
+        "duedate": "2026-07-31",
+        "resolutiondate": "2026-08-03T11:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10094",
+      "key": "OPS-94",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-06-26T17:00:00.000+0530",
+        "updated": "2026-07-04T17:00:00.000+0530",
+        "duedate": "2026-07-22",
+        "resolutiondate": null,
+        "labels": [
+          "etl"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10073",
+      "key": "DATA-73",
+      "fields": {
+        "summary": "Fix duplicate records",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-03-21T14:00:00.000+0530",
+        "updated": "2026-03-28T14:00:00.000+0530",
+        "duedate": "2026-03-30",
+        "resolutiondate": null,
+        "labels": [
+          "sql"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10103",
+      "key": "WEB-103",
+      "fields": {
+        "summary": "Migrate reports",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-07-17T16:00:00.000+0530",
+        "updated": "2026-08-07T22:00:00.000+0530",
+        "duedate": "2026-08-09",
+        "resolutiondate": "2026-08-07T22:00:00.000+0530",
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10093",
+      "key": "OPS-93",
+      "fields": {
+        "summary": "Migrate reports",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-05-14T12:00:00.000+0530",
+        "updated": "2026-05-21T12:00:00.000+0530",
+        "duedate": "2026-06-03",
+        "resolutiondate": null,
+        "labels": [
+          "sql"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10004",
+      "key": "OPS-4",
+      "fields": {
+        "summary": "Set up alerts",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-02-05T15:00:00.000+0530",
+        "updated": "2026-02-25T15:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10109",
+      "key": "DATA-109",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-06-06T10:00:00.000+0530",
+        "updated": "2026-06-26T10:00:00.000+0530",
+        "duedate": "2026-06-23",
+        "resolutiondate": null,
+        "labels": [
+          "sql"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10112",
+      "key": "WEB-112",
+      "fields": {
+        "summary": "Improve API error handling",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Blocked"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-04-08T12:00:00.000+0530",
+        "updated": "2026-04-17T12:00:00.000+0530",
+        "duedate": "2026-05-02",
+        "resolutiondate": null,
+        "labels": [
+          "bug"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10096",
+      "key": "OPS-96",
+      "fields": {
+        "summary": "Fix login timeout",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-06-06T10:00:00.000+0530",
+        "updated": "2026-06-17T16:00:00.000+0530",
+        "duedate": "2026-06-15",
+        "resolutiondate": "2026-06-17T16:00:00.000+0530",
+        "labels": [
+          "api"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10099",
+      "key": "WEB-99",
+      "fields": {
+        "summary": "Fix duplicate records",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-05-21T12:00:00.000+0530",
+        "updated": "2026-06-01T12:00:00.000+0530",
+        "duedate": "2026-06-16",
+        "resolutiondate": null,
+        "labels": [
+          "sql"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10097",
+      "key": "DATA-97",
+      "fields": {
+        "summary": "Build weekly report",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-07-17T17:00:00.000+0530",
+        "updated": "2026-07-20T17:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [
+          "sql"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10047",
+      "key": "DATA-47",
+      "fields": {
+        "summary": "Fix duplicate records",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-05-14T14:00:00.000+0530",
+        "updated": "2026-05-29T14:00:00.000+0530",
+        "duedate": "2026-06-01",
+        "resolutiondate": null,
+        "labels": [
+          "bug"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10003",
+      "key": "WEB-3",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-03-17T11:00:00.000+0530",
+        "updated": "2026-03-27T11:00:00.000+0530",
+        "duedate": "2026-04-15",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10115",
+      "key": "DATA-115",
+      "fields": {
+        "summary": "Refactor ETL script",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-02T16:00:00.000+0530",
+        "updated": "2026-08-29T16:00:00.000+0530",
+        "duedate": "2026-08-07",
+        "resolutiondate": "2026-08-29T16:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10018",
+      "key": "DATA-18",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-01-28T12:00:00.000+0530",
+        "updated": "2026-02-12T12:00:00.000+0530",
+        "duedate": "2026-02-17",
+        "resolutiondate": null,
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10058",
+      "key": "WEB-58",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-03-20T09:00:00.000+0530",
+        "updated": "2026-03-29T09:00:00.000+0530",
+        "duedate": "2026-04-16",
+        "resolutiondate": null,
+        "labels": [
+          "sql",
+          "bug"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10045",
+      "key": "OPS-45",
+      "fields": {
+        "summary": "Fix login timeout",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-06-09T10:00:00.000+0530",
+        "updated": "2026-06-29T10:00:00.000+0530",
+        "duedate": "2026-06-19",
+        "resolutiondate": "2026-06-29T10:00:00.000+0530",
+        "labels": [
+          "bug",
+          "etl"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10069",
+      "key": "DATA-69",
+      "fields": {
+        "summary": "Improve API error handling",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-03-27T16:00:00.000+0530",
+        "updated": "2026-04-21T19:00:00.000+0530",
+        "duedate": "2026-04-26",
+        "resolutiondate": "2026-04-21T19:00:00.000+0530",
+        "labels": [
+          "report",
+          "etl"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10028",
+      "key": "OPS-28",
+      "fields": {
+        "summary": "Improve API error handling",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-08-29T14:00:00.000+0530",
+        "updated": "2026-09-14T16:00:00.000+0530",
+        "duedate": "2026-09-16",
+        "resolutiondate": "2026-09-14T16:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10089",
+      "key": "WEB-89",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-06-09T11:00:00.000+0530",
+        "updated": "2026-06-28T11:00:00.000+0530",
+        "duedate": "2026-06-22",
+        "resolutiondate": null,
+        "labels": [
+          "api",
+          "etl"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10039",
+      "key": "DATA-39",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-02-09T11:00:00.000+0530",
+        "updated": "2026-02-13T11:00:00.000+0530",
+        "duedate": "2026-03-08",
+        "resolutiondate": null,
+        "labels": [
+          "etl"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10029",
+      "key": "WEB-29",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-04-04T13:00:00.000+0530",
+        "updated": "2026-04-19T13:00:00.000+0530",
+        "duedate": "2026-04-16",
+        "resolutiondate": "2026-04-19T13:00:00.000+0530",
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10020",
+      "key": "OPS-20",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-05-07T17:00:00.000+0530",
+        "updated": "2026-05-18T17:00:00.000+0530",
+        "duedate": "2026-05-28",
+        "resolutiondate": "2026-05-18T17:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10019",
+      "key": "WEB-19",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-04-23T17:00:00.000+0530",
+        "updated": "2026-05-03T18:00:00.000+0530",
+        "duedate": "2026-05-13",
+        "resolutiondate": "2026-05-03T18:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10086",
+      "key": "DATA-86",
+      "fields": {
+        "summary": "Migrate reports",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-05-23T13:00:00.000+0530",
+        "updated": "2026-05-25T14:00:00.000+0530",
+        "duedate": "2026-05-31",
+        "resolutiondate": "2026-05-25T14:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10021",
+      "key": "DATA-21",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-20T12:00:00.000+0530",
+        "updated": "2026-08-26T15:00:00.000+0530",
+        "duedate": "2026-08-26",
+        "resolutiondate": "2026-08-26T15:00:00.000+0530",
+        "labels": [
+          "bug"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10101",
+      "key": "WEB-101",
+      "fields": {
+        "summary": "Migrate reports",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-06-04T15:00:00.000+0530",
+        "updated": "2026-06-13T15:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [
+          "etl",
+          "sql"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10014",
+      "key": "DATA-14",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-01-21T14:00:00.000+0530",
+        "updated": "2026-01-28T14:00:00.000+0530",
+        "duedate": "2026-02-12",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10042",
+      "key": "OPS-42",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-05-29T09:00:00.000+0530",
+        "updated": "2026-06-02T09:00:00.000+0530",
+        "duedate": "2026-06-16",
+        "resolutiondate": null,
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10106",
+      "key": "DATA-106",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Blocked"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-07-31T14:00:00.000+0530",
+        "updated": "2026-08-16T14:00:00.000+0530",
+        "duedate": "2026-08-07",
+        "resolutiondate": null,
+        "labels": [
+          "sql",
+          "urgent"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10077",
+      "key": "WEB-77",
+      "fields": {
+        "summary": "Set up alerts",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-03-02T12:00:00.000+0530",
+        "updated": "2026-03-11T17:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": "2026-03-11T17:00:00.000+0530",
+        "labels": [
+          "urgent"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10082",
+      "key": "DATA-82",
+      "fields": {
+        "summary": "Clean customer table",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-20T17:00:00.000+0530",
+        "updated": "2026-08-31T17:00:00.000+0530",
+        "duedate": "2026-09-08",
+        "resolutiondate": null,
+        "labels": [
+          "etl",
+          "api"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10071",
+      "key": "OPS-71",
+      "fields": {
+        "summary": "Set up alerts",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-08-12T17:00:00.000+0530",
+        "updated": "2026-09-01T17:00:00.000+0530",
+        "duedate": "2026-08-27",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10055",
+      "key": "WEB-55",
+      "fields": {
+        "summary": "Build weekly report",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-02-03T10:00:00.000+0530",
+        "updated": "2026-02-21T10:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10011",
+      "key": "OPS-11",
+      "fields": {
+        "summary": "Improve API error handling",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-05-14T12:00:00.000+0530",
+        "updated": "2026-05-19T12:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10085",
+      "key": "OPS-85",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-02-26T10:00:00.000+0530",
+        "updated": "2026-03-12T14:00:00.000+0530",
+        "duedate": "2026-03-20",
+        "resolutiondate": "2026-03-12T14:00:00.000+0530",
+        "labels": [
+          "etl",
+          "report"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10067",
+      "key": "WEB-67",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-07-21T15:00:00.000+0530",
+        "updated": "2026-08-06T15:00:00.000+0530",
+        "duedate": "2026-08-20",
+        "resolutiondate": null,
+        "labels": [
+          "urgent",
+          "api"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10110",
+      "key": "DATA-110",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-04-07T13:00:00.000+0530",
+        "updated": "2026-04-17T13:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10076",
+      "key": "OPS-76",
+      "fields": {
+        "summary": "Fix login timeout",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Blocked"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-03-21T09:00:00.000+0530",
+        "updated": "2026-04-02T09:00:00.000+0530",
+        "duedate": "2026-04-16",
+        "resolutiondate": null,
+        "labels": [
+          "bug"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10064",
+      "key": "DATA-64",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-05-17T14:00:00.000+0530",
+        "updated": "2026-06-15T20:00:00.000+0530",
+        "duedate": "2026-06-06",
+        "resolutiondate": "2026-06-15T20:00:00.000+0530",
+        "labels": [
+          "api",
+          "etl"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10114",
+      "key": "DATA-114",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-06-18T16:00:00.000+0530",
+        "updated": "2026-06-25T21:00:00.000+0530",
+        "duedate": "2026-07-10",
+        "resolutiondate": "2026-06-25T21:00:00.000+0530",
+        "labels": [
+          "bug",
+          "api"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10044",
+      "key": "DATA-44",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-03-09T12:00:00.000+0530",
+        "updated": "2026-03-19T13:00:00.000+0530",
+        "duedate": "2026-04-02",
+        "resolutiondate": "2026-03-19T13:00:00.000+0530",
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10050",
+      "key": "OPS-50",
+      "fields": {
+        "summary": "Clean customer table",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-07-03T13:00:00.000+0530",
+        "updated": "2026-07-16T13:00:00.000+0530",
+        "duedate": "2026-07-24",
+        "resolutiondate": "2026-07-16T13:00:00.000+0530",
+        "labels": [
+          "urgent",
+          "api"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10057",
+      "key": "OPS-57",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-01-20T10:00:00.000+0530",
+        "updated": "2026-02-03T12:00:00.000+0530",
+        "duedate": "2026-01-31",
+        "resolutiondate": "2026-02-03T12:00:00.000+0530",
+        "labels": [
+          "api"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10052",
+      "key": "OPS-52",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-05-01T13:00:00.000+0530",
+        "updated": "2026-05-04T13:00:00.000+0530",
+        "duedate": "2026-05-13",
+        "resolutiondate": null,
+        "labels": [
+          "api",
+          "report"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10056",
+      "key": "OPS-56",
+      "fields": {
+        "summary": "Fix duplicate records",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-07-19T15:00:00.000+0530",
+        "updated": "2026-08-03T21:00:00.000+0530",
+        "duedate": "2026-08-18",
+        "resolutiondate": "2026-08-03T21:00:00.000+0530",
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10048",
+      "key": "OPS-48",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-03-15T17:00:00.000+0530",
+        "updated": "2026-04-12T23:00:00.000+0530",
+        "duedate": "2026-04-03",
+        "resolutiondate": "2026-04-12T23:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10016",
+      "key": "DATA-16",
+      "fields": {
+        "summary": "Fix login timeout",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-06-22T15:00:00.000+0530",
+        "updated": "2026-07-06T15:00:00.000+0530",
+        "duedate": "2026-07-10",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10035",
+      "key": "DATA-35",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-07-30T12:00:00.000+0530",
+        "updated": "2026-08-06T12:00:00.000+0530",
+        "duedate": "2026-08-05",
+        "resolutiondate": null,
+        "labels": [
+          "api"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10043",
+      "key": "WEB-43",
+      "fields": {
+        "summary": "Clean customer table",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-07-16T15:00:00.000+0530",
+        "updated": "2026-07-31T15:00:00.000+0530",
+        "duedate": "2026-07-23",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10084",
+      "key": "DATA-84",
+      "fields": {
+        "summary": "Build weekly report",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-04-16T13:00:00.000+0530",
+        "updated": "2026-04-30T13:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [
+          "bug"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10007",
+      "key": "DATA-7",
+      "fields": {
+        "summary": "Set up alerts",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-07-30T14:00:00.000+0530",
+        "updated": "2026-08-05T14:00:00.000+0530",
+        "duedate": "2026-08-06",
+        "resolutiondate": null,
+        "labels": [
+          "api",
+          "bug"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10046",
+      "key": "OPS-46",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-08-05T12:00:00.000+0530",
+        "updated": "2026-08-14T12:00:00.000+0530",
+        "duedate": "2026-09-03",
+        "resolutiondate": null,
+        "labels": [
+          "urgent"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10037",
+      "key": "WEB-37",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-02-08T16:00:00.000+0530",
+        "updated": "2026-03-01T22:00:00.000+0530",
+        "duedate": "2026-03-02",
+        "resolutiondate": "2026-03-01T22:00:00.000+0530",
+        "labels": [
+          "api",
+          "urgent"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10025",
+      "key": "OPS-25",
+      "fields": {
+        "summary": "Create data dictionary",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-04-23T13:00:00.000+0530",
+        "updated": "2026-04-27T13:00:00.000+0530",
+        "duedate": "2026-05-08",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10043",
+      "key": "WEB-43",
+      "fields": {
+        "summary": "Clean customer table",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-07-16T15:00:00.000+0530",
+        "updated": "2026-07-31T15:00:00.000+0530",
+        "duedate": "2026-07-23",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10004",
+      "key": "OPS-4",
+      "fields": {
+        "summary": "Set up alerts",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-02-05T15:00:00.000+0530",
+        "updated": "2026-02-25T15:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10033",
+      "key": "DATA-33",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-04-22T15:00:00.000+0530",
+        "updated": "2026-05-12T18:00:00.000+0530",
+        "duedate": "2026-05-02",
+        "resolutiondate": "2026-05-12T18:00:00.000+0530",
+        "labels": [
+          "sql",
+          "report"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10061",
+      "key": "DATA-61",
+      "fields": {
+        "summary": "Fix login timeout",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Blocked"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-06-26T09:00:00.000+0530",
+        "updated": "2026-07-04T09:00:00.000+0530",
+        "duedate": "2026-07-22",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10070",
+      "key": "DATA-70",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-05-19T16:00:00.000+0530",
+        "updated": "2026-06-01T16:00:00.000+0530",
+        "duedate": "2026-05-28",
+        "resolutiondate": null,
+        "labels": [
+          "api",
+          "etl"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10051",
+      "key": "DATA-51",
+      "fields": {
+        "summary": "Build weekly report",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-01-28T13:00:00.000+0530",
+        "updated": "2026-02-04T13:00:00.000+0530",
+        "duedate": "2026-02-24",
+        "resolutiondate": null,
+        "labels": [
+          "sql",
+          "report"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10066",
+      "key": "WEB-66",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-08-31T13:00:00.000+0530",
+        "updated": "2026-09-13T13:00:00.000+0530",
+        "duedate": "2026-09-13",
+        "resolutiondate": null,
+        "labels": [
+          "sql",
+          "bug"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10040",
+      "key": "WEB-40",
+      "fields": {
+        "summary": "Migrate reports",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-04-14T09:00:00.000+0530",
+        "updated": "2026-05-09T12:00:00.000+0530",
+        "duedate": "2026-05-13",
+        "resolutiondate": "2026-05-09T12:00:00.000+0530",
+        "labels": [
+          "sql",
+          "urgent"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10041",
+      "key": "WEB-41",
+      "fields": {
+        "summary": "Build weekly report",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-03-02T13:00:00.000+0530",
+        "updated": "2026-03-14T13:00:00.000+0530",
+        "duedate": "2026-03-07",
+        "resolutiondate": null,
+        "labels": [
+          "sql",
+          "etl"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10113",
+      "key": "OPS-113",
+      "fields": {
+        "summary": "Refactor ETL script",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-05-31T16:00:00.000+0530",
+        "updated": "2026-06-12T16:00:00.000+0530",
+        "duedate": "2026-06-14",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10078",
+      "key": "DATA-78",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-25T13:00:00.000+0530",
+        "updated": "2026-08-30T13:00:00.000+0530",
+        "duedate": "2026-09-12",
+        "resolutiondate": null,
+        "labels": [
+          "api"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10102",
+      "key": "DATA-102",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-24T14:00:00.000+0530",
+        "updated": "2026-08-28T14:00:00.000+0530",
+        "duedate": "2026-09-18",
+        "resolutiondate": null,
+        "labels": [
+          "etl",
+          "bug"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10006",
+      "key": "OPS-6",
+      "fields": {
+        "summary": "Fix duplicate records",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-06-16T11:00:00.000+0530",
+        "updated": "2026-06-21T11:00:00.000+0530",
+        "duedate": "2026-06-28",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10026",
+      "key": "OPS-26",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-08-24T11:00:00.000+0530",
+        "updated": "2026-09-11T11:00:00.000+0530",
+        "duedate": "2026-09-09",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10038",
+      "key": "DATA-38",
+      "fields": {
+        "summary": "Create data dictionary",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-08T13:00:00.000+0530",
+        "updated": "2026-09-09T18:00:00.000+0530",
+        "duedate": "2026-08-29",
+        "resolutiondate": "2026-09-09T18:00:00.000+0530",
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10005",
+      "key": "DATA-5",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-11T12:00:00.000+0530",
+        "updated": "2026-08-29T15:00:00.000+0530",
+        "duedate": "2026-08-28",
+        "resolutiondate": "2026-08-29T15:00:00.000+0530",
+        "labels": [
+          "urgent"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10059",
+      "key": "DATA-59",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-05-24T12:00:00.000+0530",
+        "updated": "2026-06-03T12:00:00.000+0530",
+        "duedate": "2026-06-06",
+        "resolutiondate": "2026-06-03T12:00:00.000+0530",
+        "labels": [
+          "urgent"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10120",
+      "key": "OPS-120",
+      "fields": {
+        "summary": "Build weekly report",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-01-09T14:00:00.000+0530",
+        "updated": "2026-01-25T19:00:00.000+0530",
+        "duedate": "2026-01-25",
+        "resolutiondate": "2026-01-25T19:00:00.000+0530",
+        "labels": [
+          "sql"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10092",
+      "key": "DATA-92",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-06-04T17:00:00.000+0530",
+        "updated": "2026-06-12T20:00:00.000+0530",
+        "duedate": "2026-06-30",
+        "resolutiondate": "2026-06-12T20:00:00.000+0530",
+        "labels": [
+          "report",
+          "urgent"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10009",
+      "key": "DATA-9",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-02-13T11:00:00.000+0530",
+        "updated": "2026-02-18T14:00:00.000+0530",
+        "duedate": "2026-03-03",
+        "resolutiondate": "2026-02-18T14:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10018",
+      "key": "DATA-18",
+      "fields": {
+        "summary": "Document pipeline",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-01-28T12:00:00.000+0530",
+        "updated": "2026-02-12T12:00:00.000+0530",
+        "duedate": "2026-02-17",
+        "resolutiondate": null,
+        "labels": [
+          "report"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10104",
+      "key": "DATA-104",
+      "fields": {
+        "summary": "Fix login timeout",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-04-05T17:00:00.000+0530",
+        "updated": "2026-04-19T17:00:00.000+0530",
+        "duedate": "2026-04-24",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10024",
+      "key": "WEB-24",
+      "fields": {
+        "summary": "Investigate slow query",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-02-03T10:00:00.000+0530",
+        "updated": "2026-02-21T12:00:00.000+0530",
+        "duedate": "2026-02-12",
+        "resolutiondate": "2026-02-21T12:00:00.000+0530",
+        "labels": [
+          "etl"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10081",
+      "key": "DATA-81",
+      "fields": {
+        "summary": "Update dashboard filters",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-06-19T10:00:00.000+0530",
+        "updated": "2026-07-09T15:00:00.000+0530",
+        "duedate": "2026-07-08",
+        "resolutiondate": "2026-07-09T15:00:00.000+0530",
+        "labels": [
+          "etl"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10062",
+      "key": "WEB-62",
+      "fields": {
+        "summary": "Migrate reports",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Blocked"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-06-16T16:00:00.000+0530",
+        "updated": "2026-06-27T16:00:00.000+0530",
+        "duedate": "2026-07-06",
+        "resolutiondate": null,
+        "labels": [
+          "api",
+          "report"
+        ],
+        "timeoriginalestimate": 28800
+      }
+    },
+    {
+      "id": "10090",
+      "key": "OPS-90",
+      "fields": {
+        "summary": "Fix duplicate records",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "Done"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u002",
+          "displayName": "Meera Nair"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-06-20T17:00:00.000+0530",
+        "updated": "2026-07-18T20:00:00.000+0530",
+        "duedate": "2026-07-01",
+        "resolutiondate": "2026-07-18T20:00:00.000+0530",
+        "labels": [],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10060",
+      "key": "OPS-60",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-04-18T13:00:00.000+0530",
+        "updated": "2026-05-02T13:00:00.000+0530",
+        "duedate": "2026-05-08",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10088",
+      "key": "DATA-88",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u001",
+          "displayName": "Aarav Kumar"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-07-10T17:00:00.000+0530",
+        "updated": "2026-07-10T17:00:00.000+0530",
+        "duedate": "2026-08-04",
+        "resolutiondate": null,
+        "labels": [
+          "etl"
+        ],
+        "timeoriginalestimate": 3600
+      }
+    },
+    {
+      "id": "10100",
+      "key": "OPS-100",
+      "fields": {
+        "summary": "Add export to Excel",
+        "issuetype": {
+          "name": "Epic"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": {
+          "accountId": "u003",
+          "displayName": "Rohan Das"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-04-18T15:00:00.000+0530",
+        "updated": "2026-04-18T15:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10107",
+      "key": "WEB-107",
+      "fields": {
+        "summary": "Review access permissions",
+        "issuetype": {
+          "name": "Bug"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "assignee": null,
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-04-10T13:00:00.000+0530",
+        "updated": "2026-04-20T13:00:00.000+0530",
+        "duedate": null,
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": null
+      }
+    },
+    {
+      "id": "10023",
+      "key": "DATA-23",
+      "fields": {
+        "summary": "Clean customer table",
+        "issuetype": {
+          "name": "Story"
+        },
+        "status": {
+          "name": "In Progress"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u005",
+          "displayName": "Karthik R"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "DATA",
+          "name": "Data Platform"
+        },
+        "created": "2026-08-18T12:00:00.000+0530",
+        "updated": "2026-09-01T12:00:00.000+0530",
+        "duedate": "2026-08-28",
+        "resolutiondate": null,
+        "labels": [
+          "report",
+          "etl"
+        ],
+        "timeoriginalestimate": 7200
+      }
+    },
+    {
+      "id": "10083",
+      "key": "WEB-83",
+      "fields": {
+        "summary": "Add validation rules",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Highest"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "WEB",
+          "name": "Website Revamp"
+        },
+        "created": "2026-09-02T13:00:00.000+0530",
+        "updated": "2026-09-08T13:00:00.000+0530",
+        "duedate": "2026-09-18",
+        "resolutiondate": null,
+        "labels": [
+          "sql"
+        ],
+        "timeoriginalestimate": 14400
+      }
+    },
+    {
+      "id": "10105",
+      "key": "OPS-105",
+      "fields": {
+        "summary": "Set up alerts",
+        "issuetype": {
+          "name": "Task"
+        },
+        "status": {
+          "name": "In Review"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "assignee": {
+          "accountId": "u004",
+          "displayName": "Priya Shah"
+        },
+        "reporter": {
+          "accountId": "u006",
+          "displayName": "Neha Iyer"
+        },
+        "project": {
+          "key": "OPS",
+          "name": "Operations Automation"
+        },
+        "created": "2026-05-14T15:00:00.000+0530",
+        "updated": "2026-05-15T15:00:00.000+0530",
+        "duedate": "2026-06-05",
+        "resolutiondate": null,
+        "labels": [],
+        "timeoriginalestimate": 28800
+      }
+    }
+  ]
+}
